@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruitchel.github.io/sitemap.html.gz
+Sitemap: https://ruitchel.github.io/app/sitemap.html.gz
+Sitemap: https://ruitchel.github.io/assets/sitemap.html.gz
+Sitemap: https://ruitchel.github.io/css/sitemap.html.gz
+Sitemap: https://ruitchel.github.io/includes/sitemap.html.gz
+Sitemap: https://ruitchel.github.io/item/sitemap.html.gz
+Sitemap: https://ruitchel.github.io/src/sitemap.html.gz
